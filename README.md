@@ -1,4 +1,4 @@
-### Hi there 👋
+I am an Aerospace Engineering student with a particular interest in race car aerodynamics. I am also the Aerodynamics Team Lead for Cyclone Racing Formula SAE. In my spare time, or rather my spare time that isn't spent on the formula car, I race whatever kart or car I can get my hands on and play pool.
 
 <!--
 **caseydjacobs/caseydjacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
